@@ -30,4 +30,4 @@
 <img src = "./A.jpg">
 
 #### histogram matching stretching
-<img src = "./B.jpg">
+<img src = "./B.bmp">
