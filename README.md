@@ -27,7 +27,7 @@
 
 ## 3. Stretching에 적용
 #### original image
-<img src = "./output/A.jpg" width="700" width="640" height="360">
+<img src = "./A.jpg" width="700" width="640" height="360">
 
 #### histogram matching stretching
 <img B = "https://user-images.githubusercontent.com/78393745/106555576-30ce6d80-6561-11eb-9704-ffa4fd551512.jpg" width="960" height="360">
