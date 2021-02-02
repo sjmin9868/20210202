@@ -23,3 +23,11 @@
 #### A_match
 ![A_match](https://user-images.githubusercontent.com/78393745/106554754-59edfe80-655f-11eb-859b-8c83396ff756.jpg)
  * A_match = imhistmatch(A_histeq, A_adjust)
+
+
+## 3. Stretching에 적용
+#### original image
+![A](https://user-images.githubusercontent.com/78393745/106555538-1bf1da00-6561-11eb-993f-4a4e5cfe3b0b.jpg)
+
+#### histogram matching stretching
+![B](https://user-images.githubusercontent.com/78393745/106555576-30ce6d80-6561-11eb-9704-ffa4fd551512.jpg)
