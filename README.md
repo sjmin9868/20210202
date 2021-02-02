@@ -10,8 +10,8 @@
 
 
 ## 2. Histogram matching
+#### A_adjust
 ![A_adjust](https://user-images.githubusercontent.com/78393745/106554721-4d69a600-655f-11eb-9f29-60d086e343e0.jpg)
-**** A_adjust
  * 0~255 pixel value에서 90%~100%에 해당하는 pixel은 saturation
  * histogram의 target 이미지
 
