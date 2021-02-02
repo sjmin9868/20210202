@@ -12,7 +12,7 @@
 ## 2. Histogram matching
 #### A_adjust
 <img src = "./A_adjust.jpg">
- * 0~255 pixel value에서 90%~100%에 해당하는 pixel은 saturation
+ * 0~255 pixel value에서 75%~100%에 해당하는 pixel은 saturation
  * histogram의 target 이미지
 
 #### A_histeq
