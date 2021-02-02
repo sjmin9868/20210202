@@ -33,5 +33,5 @@
 <img src = "./B.bmp">
 
 ## 4. Logarithmic contrast
-<img src = "./original.jpg">
-<img src = "./adaaptivetonemapped.jpg">
+<img src = "./original.fig">
+<img src = "./adaaptivetonemapped.fig">
