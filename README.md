@@ -30,4 +30,4 @@
 ![A](https://user-images.githubusercontent.com/78393745/106555538-1bf1da00-6561-11eb-993f-4a4e5cfe3b0b.jpg)
 
 #### histogram matching stretching
-![B](https://user-images.githubusercontent.com/78393745/106555576-30ce6d80-6561-11eb-9704-ffa4fd551512.jpg)
+![B](https://user-images.githubusercontent.com/78393745/106555576-30ce6d80-6561-11eb-9704-ffa4fd551512.jpg) width="960" height="360"
