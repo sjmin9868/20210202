@@ -34,3 +34,10 @@
 
 ## 4. Logarithmic contrast
 <img src = "./original.bmp" width="400"> <img src = "./apadtivetonemapped.bmp" width="400">
+
+## 5. Tone mapping
+#### Mantiuk's method
+<img src = "./ldr-Mantiuk_2.5_0.85_0.9.jpg" width="400"> <img src = "./apadtivetonemapped.bmp" width="400">
+
+#### Reinhard's method
+<img src = "./ldr-Reinhard_2.5_1.jpg" width="400"> <img src = "./apadtivetonemapped.bmp" width="400">
